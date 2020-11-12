@@ -5,6 +5,7 @@
         <img class="rounded-full h-64 w-64" src="~/assets/maximilian-thomas.JPG"/>
       </div>
       <span class="font-semibold tracking-tight text-white text-2xl">Maximilian Thomas</span>
+      <span class="text-white">Fullstack-Developer 💻 Freelancer 👔 Creator 💼</span>
     </div>
   </div>
 </template>
